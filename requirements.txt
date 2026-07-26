@@ -1,0 +1,11 @@
+# --extra-index-url https://your.registry.example/simple
+
+numpy
+torch
+matplotlib
+scikit-learn
+pandas
+requests
+torchvision
+tqdm
+torchinfo

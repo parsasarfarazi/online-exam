@@ -3,6 +3,8 @@ This is a temporary Repo for Deep Learning Course Final Exam
 
 ### setup commands
 ```bash
+git clone https://github.com/parsasarfarazi/online-exam.git
+cd online-exam
 python3 -m venv .venv       # to create 
 source .venv/bin/activate   # and activate a virtual environment(if needed)
 pip install -r requirements.txt # to install packages
